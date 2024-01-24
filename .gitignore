@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/iclickstudio/bin/Debug/net6.0
+/iclickstudio/obj
+/Logic/bin/Debug/net6.0
+/Logic/obj
+/Core/obj
